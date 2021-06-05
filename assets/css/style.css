@@ -184,7 +184,7 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-size: 14px;
-  color: #16507b;
+  color: #84329b;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -196,11 +196,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #2487ce;
+  color: #84329b;
 }
 
 .navbar .getstarted {
-  background: #2487ce;
+  background: #84329b;
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 4px;
@@ -209,7 +209,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar .getstarted:hover {
   color: #fff;
-  background: #3194db;
+  background: #84329b;
 }
 
 .navbar .dropdown ul {
@@ -242,7 +242,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #2487ce;
+  color: #84329b;
 }
 
 .navbar .dropdown:hover > ul {
@@ -277,7 +277,7 @@ h1, h2, h3, h4, h5, h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #124265;
+  color: #84329b;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -332,11 +332,11 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-mobile a {
   padding: 10px 20px;
   font-size: 15px;
-  color: #124265;
+  color: #84329b;
 }
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #2487ce;
+  color: #84329b;
 }
 
 .navbar-mobile .getstarted {
@@ -368,7 +368,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #2487ce;
+  color: #84329b;
 }
 
 .navbar-mobile .dropdown > .dropdown-active {
@@ -454,8 +454,8 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 18px;
 }
 
-#hero .icon-box .title a {
-  color: #124265;
+#hero .icon-box .title {
+  color: #84329b;
   transition: 0.3s;
 }
 
@@ -472,15 +472,11 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.3s ease-in-out;
   font-size: 36px;
   line-height: 1;
-  color: #2487ce;
+  color: #84329b;
 }
 
 #hero .icon-box:hover {
   transform: scale(1.08);
-}
-
-#hero .icon-box:hover .title a {
-  color: #2487ce;
 }
 
 @media (min-width: 1024px) {
@@ -532,7 +528,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #124265;
+  color: #84329b;
 }
 
 .section-title p {
@@ -568,7 +564,7 @@ section {
   left: 0;
   top: 2px;
   font-size: 20px;
-  color: #2487ce;
+  color: #84329b;
   line-height: 1;
 }
 
@@ -586,15 +582,15 @@ section {
   border-radius: 5px;
   transition: 0.3s;
   line-height: 1;
-  color: #2487ce;
+  color: #84329b;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   margin-top: 6px;
-  border: 2px solid #2487ce;
+  border: 2px solid #84329b;
 }
 
 .about .content .btn-learn-more:hover {
-  background: #2487ce;
+  background: #84329b;
   color: #fff;
   text-decoration: none;
 }
@@ -616,7 +612,7 @@ section {
   line-height: 48px;
   display: block;
   font-weight: 700;
-  color: #124265;
+  color: #84329b;
   margin-left: 80px;
   margin: auto;
 }
@@ -626,7 +622,7 @@ section {
   font-family: "Raleway", sans-serif;
   font-weight: 600;
   font-size: 14px;
-  color: #1e6ca6;
+  color: #84329b;
 }
 
 /*--------------------------------------------------------------
